@@ -1,0 +1,1 @@
+C:\Users\user\Downloads\generador_datos_falsos\target\debug\generador_datos_falsos.exe: C:\Users\user\Downloads\generador_datos_falsos\src\faker.rs C:\Users\user\Downloads\generador_datos_falsos\src\main.rs
